@@ -29,7 +29,7 @@ DSW2(config-if)#standby version 2 <br />
 DSW2(config-if)#standby 10 ip 10.0.10.254 <br />
 DSW2(config-if)#standby 10 priority 95 <br />
 DSW2(config-if)#standby 10 preempt <br />
-Follow example for VLAN 20. Verify results wtih commands 'show standby' and 'show spanning-tree'. <br />
+Follow example for VLAN 20 with the reverse configurations. Verify results wtih commands 'show standby' and 'show spanning-tree'. <br />
 <img src="https://i.imgur.com/EgOihGL.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/NIWpVKW.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/l66TaLJ.png" height="80%" width="80%" />
