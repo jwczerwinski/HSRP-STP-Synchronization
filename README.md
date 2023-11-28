@@ -1,7 +1,7 @@
 # HSRP-STP-Synchronization
 
 <h2>Description</h2>
-Confgiure HSRP on DSW1/DSW2 and synchronize with STP within separate VLANs. Purpose is to create direct traffic path from PC1 > DSW1 and PC2 > DSW2 with HSRP over other connections.
+Confgiure HSRP on DSW1/DSW2 and synchronize with STP within separate VLANs. Purpose is to create priority traffic path from PC1 > DSW1 and PC2 > DSW2 with HSRP.
 
 <h2>Environments Used </h2>
 
